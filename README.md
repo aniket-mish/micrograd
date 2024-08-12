@@ -1,5 +1,10 @@
 # micrograd
 
+> [!NOTE]
+> one more good ref to understand backprob is by [artem](https://youtu.be/SmZmBKc7Lrs?si=qO0w2biWfroAiRsf)
+
+now lets dive in to andrej implementing micrograd
+
 neural net training under the hood
 
 micrograd implements backpropagation
