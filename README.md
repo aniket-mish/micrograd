@@ -12,3 +12,8 @@ what does it tell you? it tells you how `a` and `b` are effecting `g` thtough th
 
 for example, if `a.grad() = 138` it tells you that if `a` is slightly tweaked a tiny amount and made larger, `g` will grow and its slope of growth would be 138 
 
+whats derivative? if you slightly bump up the the value `x` by `h`, how does the function responds/what is the slope at the point, does the function go up/down and by how much.
+
+to get the slope, we need to have rise (`f(x + h) - f(x)`) over run(`h`)
+
+when the slopes zero, if we nudge `x` by some anount, the function doesn't respond much
