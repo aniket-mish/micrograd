@@ -22,3 +22,5 @@ whats derivative? if you slightly bump up the the value `x` by `h`, how does the
 to get the slope, we need to have rise (`f(x + h) - f(x)`) over run(`h`)
 
 when the slopes zero, if we nudge `x` by some anount, the function doesn't respond much
+
+`backprop is just the recursive application of chain rule backwards through the computation graph`
